@@ -1,0 +1,443 @@
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_CustomLayout.cshtml.g.cs
+C:\Users\HELLO\source\repos\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\DangNhap.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Google.Protobuf.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\MySql.Data.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Zstandard.Net.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Renci.SshNet.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\DangNhap.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_CustomLayout.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\LienHe.cshtml.g.cs
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\NET CORE MVC\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NET CORE MVC\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\ListPost.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.exe
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.deps.json
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.json
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.runtimeconfig.dev.json
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ref\WebApplication1.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.pdb
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.Views.pdb
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Google.Protobuf.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Humanizer.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\MySql.Data.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Zstandard.Net.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\Renci.SshNet.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\worlpess\WebApplication1\WebApplication1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.AssemblyReference.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfoInputs.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.AssemblyInfo.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorAssemblyInfo.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\WebApplication1.styles.css
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.input.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.TagHelpers.output.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorCoreGenerate.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\DangNhap.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\Index.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\LienHe.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Main\ListPost.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_CustomLayout.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.RazorTargetAssemblyInfo.cs
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.Views.pdb
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.csproj.CopyComplete
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.dll
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\ref\WebApplication1.dll
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.pdb
+C:\worlpess\WebApplication1\WebApplication1\obj\Debug\net5.0\WebApplication1.genruntimeconfig.cache
